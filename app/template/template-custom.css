@@ -3,3 +3,5 @@ html{background-color: #ecf0f5}
 .fa-bank{font-size: 80%}
 .fa-credit-card{font-size: 80%}
 .fa-money{font-size: 80%}
+.table-actions{width: 100px;}
+#toast-container{top: 70px}
